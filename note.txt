@@ -1,0 +1,12 @@
+ - Để trang web được google ưu tiên thì cấu trúc trang web
+cần được bố cục theo trình tự để google có thể dễ dàng cào dữ liệu
+ - Thẻ <hr>
+    + 
+ - Link extention chọn màu https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en
+ - Những thẻ inline thường không thể sử dụng "text-align: center"
+ - Khi chỉnh sửa kích thước tag <img> chỉ nên chỉnh width hay height
+hạn chế chỉnh cả hai
+ - thẻ <th></th> của table nội dung bên trong sẽ được in đậm
+ ==> Lưu ý Dàn table cell theo đơn vị nhỏ nhất và xét table theo dòng 
+ - trong lập trình web người chỉ sử dụng đường dẫn tuyệt đối 
+vì các thiết bị dùng để lưu trữ sẽ khác nhau về đường dẫn
